@@ -61,15 +61,22 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/yenchung/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:112159501@g.nccu.edu.tw"
+    
 
 footer:
   links:
     - label: "Threads"
       icon: "fab fa-fw fa-threads"
-      url: ""
+      url: "https://www.threads.com/yenchung/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/yenchung/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:112159501@g.nccu.edu.tw"
 
 defaults:
   - scope:
