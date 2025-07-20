@@ -1,11 +1,9 @@
 main:
   - title: "關於我"
     url: /about/
-  - title: "研究"
+  - title: "學術著作"
     url: /research/
-  - title: "教學"
-    url: /teaching/
+  - title: "講座側記與網路文章"
+    url: /blog/
   - title: "CV"
     url: /cv/
-  - title: "筆記"
-    url: /blog/
