@@ -48,7 +48,7 @@ plugins:
 
 author:
   name: "周 寅彰 AKI（they/them）"
-  avatar: "/assets/images/bio-photo.jpg"
+  avatar: "/workspaces/aki_yinchang.c/assets/images/biophoto.jpg"
   bio: "嗨，可以叫我AKI就好。"
   links:
     - label: "Threads"
