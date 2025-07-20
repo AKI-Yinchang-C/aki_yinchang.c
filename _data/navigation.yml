@@ -1,0 +1,11 @@
+main:
+  - title: "關於我"
+    url: /about/
+  - title: "研究"
+    url: /research/
+  - title: "教學"
+    url: /teaching/
+  - title: "CV"
+    url: /cv/
+  - title: "筆記"
+    url: /blog/
