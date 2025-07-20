@@ -49,7 +49,7 @@ plugins:
 author:
   name: "周 寅彰 AKI（they/them）"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "嗨，我是AKI，現就讀國立政治大學台灣文學研究所"
+  bio: "嗨，可以叫我AKI就好。"
   links:
     - label: "Threads"
       icon: "fab fa-fw fa-threads"
