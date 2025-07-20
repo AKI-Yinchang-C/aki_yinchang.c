@@ -1,15 +1,15 @@
 ---
 layout: single
+title: ""
 permalink: /research/
 ---
-
 
 
 ## 期刊論文
 
 - **2025-06** 〈其它性身體：東方白〈尾巴〉的身體改造〉，《台灣文學學報》第46期。
 
-- **2022-01** <a href="https://www.airitilibrary.com/Article/Detail/P20220912001-N202301310016-00002" target="_blank" rel="noopener">〈慢死與快活：鄭俊清的工傷身體〉</a>，《中正台灣文學與文化研究》第2期。
+- **2022-01** [〈慢死與快活：鄭俊清的工傷身體〉](https://www.airitilibrary.com/Article/Detail/P20220912001-N202301310016-00002){:target="_blank" rel="noopener"}，《中正台灣文學與文化研究》第2期。
 
 
 ## 會議論文
