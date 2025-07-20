@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "周 寅彰 AKI"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "嗨，我是寅彰，可以叫我AKI就好，現就讀國立政治大學台灣文學研究所博士班"
+  bio    : "AKI"
   links:
     - label: "Threads"
       icon: "fab fa-fw fa-threads"
