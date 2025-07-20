@@ -46,6 +46,10 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+external_links:
+  target: "_blank"
+  rel: "noopener noreferrer"
+
 author:
   name: "周 寅彰 AKI（they/them）"
   avatar: "/workspaces/aki_yinchang.c/assets/images/biophoto.jpg"
