@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "關於我"
+title: ""
 permalink: /about/
 ---
 
