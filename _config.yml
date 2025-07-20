@@ -26,7 +26,6 @@ custom_css:
 
 search: true
 
-baseurl: "/aki_yinchang.c"
 url: "https://aki-yinchang-c.github.io"
 
 markdown: kramdown
