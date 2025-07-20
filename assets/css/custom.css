@@ -62,8 +62,8 @@ pre, code {
 }
 
 .responsive-image {
-  max-width: 400px;    /* 圖片最大寬度 400px */
-  width: 100%;         /* 寬度 100%，自動縮放 */
-  height: auto;        /* 高度自動，維持比例 */
-  border-radius: 10px; /* 圓角 10px，可調整或刪除 */
+  max-width: 400px !important;
+  width: 100% !important;
+  height: auto !important;
+  border-radius: 10px;
 }
