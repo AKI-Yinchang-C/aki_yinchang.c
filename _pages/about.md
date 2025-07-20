@@ -3,6 +3,7 @@ title: "關於我"
 permalink: /about/
 layout: single
 author_profile: true
+---
 
 嗨，我是 AKI，目前就讀政治大學台灣文學研究所博士班。
 
@@ -16,4 +17,3 @@ author_profile: true
 
 - 研究助理，科技部「身心障礙的歷史與未來」計畫，2020-2022
 - 宿舍顧問，國立政治大學自強123碩博士學生宿舍，2019-2022
----
