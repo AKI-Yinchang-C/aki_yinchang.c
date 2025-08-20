@@ -10,7 +10,10 @@ tags:
   - 社會運動
 ---
 
-<img src="/aki_yinchang.c/assets/images/becoming_Nicole.jpg" alt="變身妮可封面" style="max-width:400px; width:100%; height:auto; border-radius:10px; display:block; margin:0 auto;">
+<p align="center">
+  <img src="/aki_yinchang.c/assets/images/變身妮可.jpg" alt="變身妮可 封面" width="400">
+
+</p>
 
 
 《變身妮可：不一樣又如何？跨性別女孩與她家庭的成長之路》  
