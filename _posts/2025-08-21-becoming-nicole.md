@@ -16,7 +16,8 @@ permalink: /書摘/becoming-nicole/
 ---
 
 <p align="center">
-  <img src="{{ '/assets/images/變身妮可.jpg' | relative_url }}" alt="變身妮可 封面" width="400">
+  <img src="/aki_yinchang.c/assets/images/變身妮可.jpg" alt="變身妮可 封面" width="400">
+
 </p>
 
 
