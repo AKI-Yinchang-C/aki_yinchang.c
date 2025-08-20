@@ -1,22 +1,17 @@
 ---
-layout: single
 title: "《變身妮可》：一個家庭的轉變"
 date: 2025-08-21 12:00:00 +0800
 last_modified_at: 2025-08-21 12:30:00 +0800
 categories:
-  - 書摘
+  - Blog
 tags:
   - 跨性別
   - 家庭
   - 社會運動
-author_profile: true
-read_time: true
-share: true
-permalink: /書摘/becoming-nicole/
 ---
 
 <p align="center">
-  <img src="/aki_yinchang.c/assets/images/變身妮可.jpg" alt="變身妮可 封面" width="400">
+  <img src="/aki_yinchang.c/assets/images/becoming_Nicole.jpg" alt="變身妮可 封面" width="400">
 
 </p>
 
