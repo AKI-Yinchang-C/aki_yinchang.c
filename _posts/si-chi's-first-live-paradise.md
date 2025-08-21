@@ -10,6 +10,8 @@ tags:
   - 社會運動
 ---
 
+<img src="/assets/images/cover-first-love-paradise.jpg" alt="思琪的初戀樂園封面" style="max-width:400px; width:100%; height:auto; border-radius:10px; display:block; margin:0 auto;">
+
 林奕含，《房思琪的初戀樂園》，游擊文化，2017年2月7日。
 
 林奕含的《房思琪的初戀樂園》，出版滿八年有餘。八年來，「房思琪」成為性暴力受害者的代名詞。可是，「運用一個妳其實根本並不懂的詞，這根本是犯罪，就像一個人心中沒有愛卻說我愛你一樣」。
