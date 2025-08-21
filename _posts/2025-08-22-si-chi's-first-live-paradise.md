@@ -10,7 +10,8 @@ tags:
   - 社會運動
 ---
 
-<img src="/assets/images/cover-first-love-paradise.jpg" alt="思琪的初戀樂園封面" style="max-width:400px; width:100%; height:auto; border-radius:10px; display:block; margin:0 auto;">
+<img src="/aki_yinchang.c/assets/images/cover-first-love-paradise.jpg" alt="思琪的初戀樂園封面" style="max-width:400px; width:100%; height:auto; border-radius:10px; display:block; margin:0 auto;">
+
 
 林奕含，《房思琪的初戀樂園》，游擊文化，2017年2月7日。
 
